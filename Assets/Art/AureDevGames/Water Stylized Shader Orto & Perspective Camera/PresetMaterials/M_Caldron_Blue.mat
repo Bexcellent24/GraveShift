@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Caldron_Purple
+  m_Name: M_Caldron_Blue
   m_Shader: {fileID: -6465566751694194690, guid: 8eef88ae773ef5f4dbe4da56da89303b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -148,20 +148,20 @@ Material:
     - _WaveStepness: 0.35
     m_Colors:
     - _BaseColor: {r: 0, g: 0.1989687, b: 1.110646, a: 1}
-    - _CaveColor: {r: 0.13292272, g: 0.27217072, b: 0.554717, a: 0.41960785}
+    - _CaveColor: {r: 0.4451882, g: 0.21176474, b: 0.4862745, a: 0.41960785}
     - _CaveOffset: {r: -0.45, g: 0, b: 0, a: 0}
     - _CaveScale: {r: 0.01, g: 0.01, b: 0, a: 0}
     - _CaveSecondaryColor: {r: 0, g: 0, b: 0, a: 0}
     - _DeepColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamUVsOffset: {r: 1, g: 1, b: 0, a: 0}
     - _FresnelColor: {r: 2.670157, g: 2.670157, b: 2.670157, a: 0}
-    - _HorizonColor: {r: 3.6692936, g: 6.111962, b: 7.3772106, a: 1}
-    - _IntersectionFoamColor: {r: 2.0474799, g: 2.0474799, b: 2.0474799, a: 1}
+    - _HorizonColor: {r: 7.3772106, g: 3.6607668, b: 6.6577153, a: 1}
+    - _IntersectionFoamColor: {r: 1.116587, g: 0.3255289, b: 1.5336026, a: 1}
     - _PositionRipples: {r: 0, g: 0, b: 0, a: 0}
-    - _SecondaryFoamColor: {r: 0.046540372, g: 0, b: 0.38431373, a: 0.40784314}
-    - _ShallowColor: {r: 0, g: 0.10022503, b: 0.5698112, a: 1}
-    - _SpecularColor: {r: 0.103773475, g: 0.5440108, b: 1, a: 0.31764707}
-    - _SurfaceFoamColor: {r: 0.92118555, g: 0.89176935, b: 0.94716984, a: 0.2784314}
+    - _SecondaryFoamColor: {r: 0.08223095, g: 0, b: 0.38431373, a: 0.40784314}
+    - _ShallowColor: {r: 0.2426994, g: 0, b: 0.3529412, a: 1}
+    - _SpecularColor: {r: 0.7189117, g: 0.3726415, b: 1, a: 0.31764707}
+    - _SurfaceFoamColor: {r: 0.5078806, g: 0.039215688, b: 0.9254902, a: 0.2784314}
     - _TopColor: {r: 0, g: 0.17848217, b: 0.5622641, a: 0.44705883}
     - _UV: {r: 0, g: 0, b: 0, a: 0}
     - _UVRipples: {r: 0, g: 0, b: 0, a: 0}
